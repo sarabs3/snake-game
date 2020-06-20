@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GameOver /> snapshot matched 1`] = `
+<div
+  className="snake-app__overlay"
+>
+  <div
+    className="mb-1"
+    data-testid="game-over-message"
+  >
+    <b>
+      GAME OVER!
+    </b>
+  </div>
+  <div
+    className="mb-1"
+    data-testid="game-over-score"
+  >
+    Your score: 
+    10
+     
+  </div>
+  <button
+    data-testid="start-game-button"
+    onClick={[MockFunction]}
+  >
+    Start a new game
+  </button>
+</div>
+`;

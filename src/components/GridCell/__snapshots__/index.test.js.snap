@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid cell snapshots <GridCell /> food cell matches snapshot 1`] = `
+<div
+  className="grid-cell 
+		grid-cell--food 
+		
+		"
+  data-testid="grid-cell"
+  style={
+    Object {
+      "height": "15px",
+      "width": "15px",
+    }
+  }
+/>
+`;
+
+exports[`Grid cell snapshots <GridCell /> snake cell matches snapshot 1`] = `
+<div
+  className="grid-cell 
+		 
+		grid-cell--snake
+		"
+  data-testid="grid-cell"
+  style={
+    Object {
+      "height": "15px",
+      "width": "15px",
+    }
+  }
+/>
+`;
