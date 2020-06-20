@@ -1,5 +1,7 @@
 # snake-game
 
+Now available to play at https://snake-game-saurabh.netlify.app/
+
 ##### Design the elements
 - Snake
 - Food
