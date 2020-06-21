@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GameScore /> snapshot matched 1`] = `
+<div
+  className="gameScore"
+  data-testid="game-score"
+>
+  Score: 
+  <b>
+    10
+  </b>
+</div>
+`;

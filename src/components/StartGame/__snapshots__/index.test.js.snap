@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StartGame /> matches snapshot 1`] = `
+<div
+  className="snake-app__overlay"
+>
+  <button
+    data-testid="start-game"
+    onClick={[MockFunction]}
+  >
+    Start game!
+  </button>
+</div>
+`;
